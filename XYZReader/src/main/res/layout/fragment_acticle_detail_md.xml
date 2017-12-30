@@ -64,7 +64,7 @@
         android:layout_width="wrap_content"
         app:fabSize="normal"
         android:layout_marginRight="@dimen/fab_margin"
-        android:background="@drawable/add_fab_background"
+        android:background="@color/theme_accent"
         android:contentDescription="@string/action_share"
         android:src="@drawable/ic_share"
         app:layout_anchor="@id/appbar"
